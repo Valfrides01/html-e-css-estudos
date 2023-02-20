@@ -6,7 +6,11 @@ header{
     background-color: #90a005;
     padding: 35px;
 }
-
+div{
+    text-align: left;
+    font-size: 35px;
+    
+}
 body{
     background-color:#02193b;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
