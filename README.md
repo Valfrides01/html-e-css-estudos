@@ -1,2 +1,2 @@
 # html e css
- curso em video
+ Estudos baseados no Curso em video
